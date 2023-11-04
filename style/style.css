@@ -1,0 +1,14 @@
+.linkNav{
+    margin: 9px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;transition: 1.2s all;
+    border-radius: 7px;
+    padding: 8px;
+}
+.active{
+    border-radius: 7px;background-color: cornflowerblue;
+    padding: 8px;
+}
+.linkNav:hover{
+    background-color: cornflowerblue;    
+}
